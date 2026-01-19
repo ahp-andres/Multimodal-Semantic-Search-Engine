@@ -18,7 +18,7 @@ Los sistemas SQL tradicionales fallan cuando la intención del usuario no coinci
 El sistema no busca coincidencias de texto, busca **similitud semántica**. A continuación, dos ejemplos reales del funcionamiento del prototipo en Streamlit.
 
 ### Caso 1: Búsqueda por Concepto (Interfaz de Usuario)
-> ![Interfaz Streamlit - Bikinis](interfaz_streamlit1.jpeg)
+> ![Interfaz Streamlit - Bikinis](interfaz_streamlit2.jpeg)
 >
 > * **Input:** El usuario busca "Bikini rojo" (o conceptos relacionados al verano/color).
 > * **Resultado:** El modelo **CLIP** interpreta la consulta y recupera instantáneamente productos que coinciden visualmente con la descripción, rankeados por score de similitud.
